@@ -1,27 +1,3 @@
-# 👋 Hi, I’m Matlhogonolo Tolo (@CodeWithMatlhogonolo)  
-
-## 🚀 About Me  
-- 💻 I'm a **System Development graduate** passionate about technology and innovation.  
-- 🌍 I enjoy creating **web applications** and exploring **new tech trends**.  
-- 🎙️ I'm also a **podcaster** and a **fashion designer**!  
-
-## 💡 What I Do  
-- 👀 I’m interested in **developing** creative and functional applications.  
-- 🌱 I’m currently learning **Firebase** and **Flutter** to enhance my mobile development skills.  
-- 💞️ I’m looking to collaborate on **web development projects**.  
-
-## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Currently Learning:** Firebase, Flutter  
-- **Tools & Platforms:** Visual Studio, GitHub, Android Studio  
-
-## ❓ Ask Me About  
-- **HTML, CSS, and JavaScript** – I’d be happy to help!  
-
-## 📫 How to Reach Me  
-- GitHub: [@CodeWithMatlhogonolo](https://github.com/CodeWithMatlhogonolo)  
-- LinkedIn:  https://www.linkedin.com/in/matlhogonolo-tolo-545b04318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- Email: Matlhogonolo065@gmail.com
 - # 💫 About Me:
  Hi, I’m Matlhogonolo Tolo (@CodeWithMatlhogonolo)<br>🚀 About Me<br>💻 I'm a System Development graduate passionate about technology and innovation.<br>🌍 I enjoy creating web applications and exploring new tech trends.<br>🎙️ I'm also a podcaster and a fashion designer!<br>💡 What I Do<br>👀 I’m interested in developing creative and functional applications.<br>🌱 I’m currently learning Firebase and Flutter to enhance my mobile development skills.<br>💞️ I’m looking to collaborate on web development projects.<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript<br>Currently Learning: Firebase, Flutter<br>Tools & Platforms: Visual Studio, GitHub, Android Studio<br>❓ Ask Me About<br>HTML, CSS, and JavaScript – I’d be happy to help!<br>📫 How to Reach Me<br>GitHub: @CodeWithMatlhogonolo<br>LinkedIn: https://www.linkedin.com/in/matlhogonolo-tolo-545b04318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>Email: Matlhogonolo065@gmail.com<br>⚡ Fun Fact<br>I’m a fashion designer and a podcaster alongside my tech journey! 🎨🎙️<br>
 
