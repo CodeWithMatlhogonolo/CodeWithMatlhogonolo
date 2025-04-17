@@ -17,10 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## ⚡ Fun Fact  
-- I’m a **fashion designer** and a **podcaster** alongside my tech journey! 🎨🎙️  
 
----
 
 
 <!---
